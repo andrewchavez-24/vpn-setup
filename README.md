@@ -18,8 +18,6 @@ This tutorial covers the prerequisites and installation process for setting up a
 
 <h2>Installation Steps</h2>
 
-<h3>Create Virtual Machine in Azure</h3>
-
 <br>
 <p>FROM YOUR OWN MACHINE, browse to https://whatismyipaddress.com and take note of this in a text file</p>  
 <br/>
@@ -28,7 +26,7 @@ This tutorial covers the prerequisites and installation process for setting up a
 </p>
 
 <br>
-<p>Create a VM in Azure</p>
+<h3>Create a Virtual Machine in Azure</h3>
 <p>
 <img src="https://github.com/user-attachments/assets/7e7f9460-f4df-4227-b0ab-7815c51ce8e4" height="80%" width="80%"/>
 </p>
