@@ -11,11 +11,10 @@ This tutorial covers the prerequisites and installation process for setting up a
 - A VPN (Proton VPN)
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro
 
 <h2>Installation Steps</h2>
 
